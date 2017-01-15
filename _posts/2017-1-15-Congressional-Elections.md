@@ -31,11 +31,6 @@ from matplotlib.pylab import rcParams
 rcParams['figure.figsize'] = 18.5, 10.5
 ```
 
-    /Users/benjamindykstra/anaconda/lib/python2.7/site-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-      "This module will be removed in 0.20.", DeprecationWarning)
-
-
-
 ```python
 congress = pd.read_stata("http://rlhick.people.wm.edu/econ407/data/congressional_105.dta" )
 ```
