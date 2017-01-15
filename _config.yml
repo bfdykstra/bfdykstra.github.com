@@ -5,7 +5,7 @@ url: "https://bfdykstra.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Ben's wonderful, extremely good blog
+  title: Ben's extremely good blog
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with posts about data science" # used by search engines
