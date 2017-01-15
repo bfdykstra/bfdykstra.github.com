@@ -12,7 +12,14 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>A Blog about a beginner data scientist.</p>
+     <p>
+
+
+
+
+
+
+     </p>
 
   header_text_feature_image: "img/eu_rome_web.jpg"
   footer_text: >
