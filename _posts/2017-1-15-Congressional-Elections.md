@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Congressional Elections, Logistic Regression, and Feature Selection 
+title: 
+feature-img: "img/ted_cruz7.jpg" 
 ---
-
-![Congressional Districts](/img/Congressional_districts.gif)
+### Congressional Elections, Logistic Regression, and Feature Selection
 
 In the spirit of our recent election season (hah), I've decided to do some exploration in using boosted trees to identify features that have the most predictive power. Using those selected features and some propreitary intuition, I'll then use a logistic model to predict whether a congressional district will be democrat or republican. 
 
