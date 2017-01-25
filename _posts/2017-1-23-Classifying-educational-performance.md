@@ -5,6 +5,7 @@ title: Classifying Educational Performance
 
 
 In this notebook I explore a dataset from [kaggle](https://www.kaggle.com/aljarah/xAPI-Edu-Data) about student's performance in school. From the Data description:
+
 > The data is collected using a learner activity tracker tool, which called experience API (xAPI). The xAPI is a component of the training and learning architecture (TLA) that enables to monitor learning progress and learner’s actions like reading an article or watching a training video. The experience API helps the learning activity providers to determine the learner, activity and objects that describe a learning experience. The dataset consists of 480 student records and 16 features. The features are classified into three major categories: (1) Demographic features such as gender and nationality. (2) Academic background features such as educational stage, grade Level and section. (3) Behavioral features such as raised hand on class, opening resources, answering survey by parents, and school satisfaction.
 
 My objective here is to use these features to predict whether a student will be in the low interval (0-69), middle interval (70-89) or high interval (90-100). First, I will do some data exploration and visualization to get a feel for the data. Then, I will tune a boosted tree model, and a neural net using gridsearch to find the optimal parameters. I will then ensemble xgboost, logististic regression with softmax, and a KNN model and compare their (hopefully better) results with the neural net.
