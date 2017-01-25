@@ -24,6 +24,7 @@ An amazing team and I won a [hackathon](http://www.wm.edu/news/stories/2016/will
 
 ### People/Places/Projects/Companies/Art that are Awesome
 
+* [DataTau](http://www.datatau.com/news) - Hacker News for data science. It's chock full of great web articles, personal projects, general data science news.
 * [Unsplash](https://unsplash.com/) - A gorgeous website chock full of fantastic photographs of everything
 * [Roads to Rome](http://roadstorome.moovellab.com/) - Data Viz/Art of all the roads in Europe that lead to Rome.
 * The [culture](https://fivethirtyeight.com/life/) section of 538. One of the main contributors is Walt Hickey who is a William and Mary Math alum. His daily column Significant digits is hilarious.
