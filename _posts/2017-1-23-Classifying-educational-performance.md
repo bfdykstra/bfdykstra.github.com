@@ -4,7 +4,7 @@ title: Classifying Educational Performance
 ---
 
 
-In this notebook I explore a dataset from [kaggle](https://www.kaggle.com/aljarah/xAPI-Edu-Data) about student's performance in school. From the Data description:
+In this notebook I explore a dataset from [kaggle](https://www.kaggle.com/aljarah/xAPI-Edu-Data) about students' performance in school. From the Data description:
 
 > The data is collected using a learner activity tracker tool, which called experience API (xAPI). The xAPI is a component of the training and learning architecture (TLA) that enables to monitor learning progress and learner’s actions like reading an article or watching a training video. The experience API helps the learning activity providers to determine the learner, activity and objects that describe a learning experience. The dataset consists of 480 student records and 16 features. The features are classified into three major categories: (1) Demographic features such as gender and nationality. (2) Academic background features such as educational stage, grade Level and section. (3) Behavioral features such as raised hand on class, opening resources, answering survey by parents, and school satisfaction.
 
@@ -33,8 +33,6 @@ from matplotlib.pylab import rcParams
 rcParams['figure.figsize'] = 18.5, 10.5
 ```
 
-    /Users/benjamindykstra/anaconda/lib/python2.7/site-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-      "This module will be removed in 0.20.", DeprecationWarning)
 
 
 ## Description of the Data
